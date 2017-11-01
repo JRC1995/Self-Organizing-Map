@@ -6,7 +6,7 @@ SOM tutorial: http://www.ai-junkie.com/ann/som/som1.html
 
 Dataset source: https://archive.ics.uci.edu/ml/datasets/iris
 
-# Visualization of the resultant clustering on a 10x10 map:
+# Visualization of the clustering result:
 
  ```   
     Red  = Iris-Setosa
