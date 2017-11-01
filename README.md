@@ -26,3 +26,5 @@ for only a few patterns of the class represnted by the color.
     
 If a color is a mixture of two (like 'blueish-green'), then the pixel represents a 
 'gray-area' i.e that pixel is best matching unit for patterns of different classes.
+
+Black pixels are not the best matching pixels for any of the input patterns. 
