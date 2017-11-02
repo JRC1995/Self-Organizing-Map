@@ -17,9 +17,11 @@ Dataset source: https://archive.ics.uci.edu/ml/datasets/iris
 
 # Details of the above visual representation:
 
+Each pixel can be said to represent a node of the SOM.
+
 If a pixel is brightly colored it means a lot of patterns of the class 
-represented by the color activates that pixel i.e that pixel is the 
-best matching unit for many patterns of the same class.
+represented by the color activates that pixel i.e that pixel is 
+the best matching unit for many patterns of the same class.
     
 The contrary is true too. That is, darker colored pixels are the best matching units
 for only a few patterns of the class represnted by the color.
