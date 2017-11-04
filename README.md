@@ -13,7 +13,7 @@ Dataset source: https://archive.ics.uci.edu/ml/datasets/iris
     Green = Iris-Virginica
     Blue = Iris-Versicolor
  ```
-![png](output_3_2.png)
+![png](output.png)
 
 # Details of the above visual representation:
 
